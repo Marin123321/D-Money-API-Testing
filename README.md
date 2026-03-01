@@ -24,7 +24,7 @@ D-Money is a robust and user-friendly finance transactional platform designed to
 <h1>How to run?</h1>
 
  - Clone the project
-    - ``` git clone https://github.com/Asibur-Rahman-Marin/DMoney-API-Testing-POSTMAN.git ```
+    - ``` git clone https://github.com/Asibur-Rahman-Marine/DMoney-API-Testing-POSTMAN.git ```
  - PUT .env file
  - Give Following Commands:
     - ``` npm i ```
